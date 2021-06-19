@@ -1,0 +1,10 @@
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\bin\Debug\WebCamProject.exe.config
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\bin\Debug\WebCamProject.exe
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\bin\Debug\WebCamProject.pdb
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.csprojAssemblyReference.cache
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.Form1.resources
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.Properties.Resources.resources
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.csproj.GenerateResource.cache
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.csproj.CoreCompileInputs.cache
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.exe
+C:\Users\函諺\source\repos\WebCamProject\WebCamProject\obj\Debug\WebCamProject.pdb
